@@ -20,5 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewenquim&layout=compact" alt="ewenquim" /></p>
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ewenquim&show_icons=true" alt="ewenquim" /></p>
 
