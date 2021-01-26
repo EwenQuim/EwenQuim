@@ -10,5 +10,3 @@
 - 📝 I regulary write articles on [web dev & algorithms](https://blog.ewen.quimerch.com)
 
 - 💬 Ask me about **Django**
-
-- 📫 How to reach me **ewen@quimerch.com**
