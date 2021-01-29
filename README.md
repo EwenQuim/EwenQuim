@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewenquim&label=Profile%20views&color=0e75b6&style=flat" alt="ewenquim" /> </p>
 
-- 🔭 I’m currently working on [coalescence](https://play.google.com/store/apps/details?id=com.coal)
+The projects are not very organized in GitHub, you'll have a hard time finding what's you looking for.
 
-- 🌱 I’m currently learning **Angular**
+To know more about me, please check out my [blog](https://ewen.quimerch.com).
 
-- 📝 I regulary write articles on [web dev & algorithms](https://blog.ewen.quimerch.com)
-
-- 💬 Ask me about **Django**
