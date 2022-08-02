@@ -37,7 +37,7 @@
 
 To learn more about me, please **check out my [blog](https://ewen.quimerch.com)** with some of my thoughts on infrastructure and tech in general.
   
-If it is up, you can visit [my personnal Git Server](https://git.amethysts.studio). 
+If it is up, you can visit [my personnal Git Server](https://git.quimerch.com). 
 
-![Website](https://img.shields.io/website?down_message=offline&label=git%20server&up_message=available&url=https%3A%2F%2Fgit.amethysts.studio)
+![Website](https://img.shields.io/website?down_message=offline&label=git%20server&up_message=available&url=https%3A%2F%2Fgit.quimerch.com)
   
